@@ -7,4 +7,11 @@ This is an self developed (haa thoda bahar se bhi efoort laga h!) project just f
 2) USE pip install requests pycryptodome protobuf-decoder colorama urllib3 cmd to install lib
 3) TO START USE "source venv/bin/activate" cmd then python generator.py OR python3 generator.py According to system,it will start to make new id's but will do fake attacks 3 times in a row after each successful creations to avoid ip ban
 4) Enter the Region for the guest id to be...
+
+   ![Image Alt](https://github.com/iconicvenom/TransmissionControlProtocol_BOT_FF/blob/main/IMG_SRC/Example.png)
+
+
+
+
+
 [## BAKI USE KISE KARTE H BAADME LINKUNGA AALAS AARAHA H ABHI!]
