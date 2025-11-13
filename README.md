@@ -10,8 +10,7 @@ This is an self developed (haa thoda bahar se bhi efoort laga h!) project just f
 
    ![Image Alt](https://github.com/iconicvenom/TransmissionControlProtocol_BOT_FF/blob/main/IMG_SRC/Example.png)
 
-
-
+# STEP 2: USING THE UID'S AND PASSWORDS TO MAKE BOTS RUN ON COMMANDS
 
 
 [## BAKI USE KISE KARTE H BAADME LINKUNGA AALAS AARAHA H ABHI!]
